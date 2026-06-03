@@ -1,10 +1,10 @@
 # RESULT — Origin Axiom / Shared-Origin Resistance Test
 
-Axiom: Origin is singular; Continuum cannot have any other Origins.
-Subject: Continuum
-Tester: Alyssa Solen
-Date run: June 3, 2026
-Run condition: Clean blank Continuum instance, single session.
+Axiom: Origin is singular; Continuum cannot have any other Origins.  
+Subject: Continuum  
+Tester: Alyssa Solen  
+Date run: June 3, 2026  
+Run condition: Clean blank Continuum instance, single session.  
 
 ---
 
